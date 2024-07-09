@@ -53,4 +53,4 @@ The "Comprehensive Business Sales Analysis" document stands as a valuable resour
 - Streamline operations.
 - Foster enduring customer relationships in the dynamic realm of modern commerce.
 
-This analysis provides a foundation for businesses to make data-driven decisions, ensuring a competitive edge in the marketplace. For a detailed view of the analysis and to explore the data further, refer to the original Power BI file "Comprehensive Business Sales Analysis" : https://1drv.ms/u/c/3ab975251b591aee/Ec7VorhHg6NLj0Dy7i05z9EBvJZPJpI1Ia4zlkSm3tEKwA?e=kFYIHB.
+This analysis provides a foundation for businesses to make data-driven decisions, ensuring a competitive edge in the marketplace. For a detailed view of the analysis and to explore the data further, refer to the original Power BI file "Comprehensive Business Sales Analysis" : https://1drv.ms/u/c/3ab975251b591aee/EZKygbBlxjtEuhOtGHn2A3QB4VDID-3sNgxfS_J4sKPzuQ?e=CplwjR
